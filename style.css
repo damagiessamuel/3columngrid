@@ -87,7 +87,7 @@ body{
    background-color: var(--very-dark-cyan);
    border: 1px solid #fff;
 }
-@media screen and (max-width:810px) {
+@media screen and (max-width:375px) {
    .container{
       flex-direction: column;
       margin-bottom: 10px;
